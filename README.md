@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Darshan Kumar</h1>
 
-<!--
-**Darshan-coder-sru/Darshan-coder-sru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">B.Tech CSE (AI & ML) Student | AI Enthusiast | Hackathon Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science Engineering (AI & ML)
+- 🤖 Currently building **StudyMate AI**
+- 🌱 Learning Data Structures & Algorithms, AI, Cloud Computing & Full-Stack Development
+- 💡 Passionate about solving real-world problems with technology
+- 🎯 Goal: Become an AI Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📈 Current Focus
+
+- 🚀 Building StudyMate AI
+- 📚 Solving DSA problems daily
+- 🏆 Participating in Hackathons
+- ☁️ Learning Cloud Computing
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/darshan-kumar-73a113381
+- GitHub: https://github.com/Darshan-coder-sru
+
+
