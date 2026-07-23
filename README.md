@@ -18,9 +18,6 @@
 
 - Python
 - C++
-- HTML
-- CSS
-- JavaScript
 - Git
 - GitHub
 
@@ -28,11 +25,13 @@
 
 ## 📈 Current Focus
 
-- 🚀 Building StudyMate AI
+- 🚀 Building AI projects
 - 📚 Solving DSA problems daily
 - 🏆 Participating in Hackathons
-- ☁️ Learning Cloud Computing
-
+- 🧩 Generative AI
+- 🔗 AI Agents and LLM Applications
+- 📈 Mathematics for Machine Learning
+  
 ---
 
 ## 📫 Connect With Me
