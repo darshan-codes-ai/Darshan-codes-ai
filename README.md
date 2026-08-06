@@ -7,8 +7,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering (AI & ML)
-- 🤖 Currently building **StudyMate AI**
-- 🌱 Learning Data Structures & Algorithms, AI, Cloud Computing & Full-Stack Development
+- 🌱 Learning Data Structures & Algorithms, AI, Cloud Computing, Web Technologies, 
 - 💡 Passionate about solving real-world problems with technology
 - 🎯 Goal: Become an AI Software Engineer
 
@@ -25,9 +24,7 @@
 
 ## 📈 Current Focus
 
-- 🚀 Building AI projects
 - 📚 Solving DSA problems daily
-- 🏆 Participating in Hackathons
 - 🧩 Generative AI
 - 🔗 AI Agents and LLM Applications
 - 📈 Mathematics for Machine Learning
