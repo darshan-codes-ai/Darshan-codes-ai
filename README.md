@@ -13,7 +13,6 @@
 ### 🧠 About Me
 
 - 🎓 2nd-year BTech CSE (AI & ML) student at **SR University, Warangal**
-- 🚀 Currently building **SatQuery AI** — a vision-language pipeline for satellite imagery, for **Smart India Hackathon 2026** (ISRO-sponsored, SIH26167)
 - 💻 Solving DSA problems in **C++** following Striver's A2Z Sheet
 - 🏆 Built **TracePilot AI** (AI agent observability) and **StudyMate AI** (memory-powered study assistant) at national hackathons
 - 🌱 Learning: transformer architectures, RAG systems, and applied ML engineering
